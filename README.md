@@ -3,7 +3,7 @@
 
 # Hi!    
 
-Im Yasin Avşar, a new developer. I want to be a professional in operating system development and make my own operating system.
+## Im Yasin Avşar, a new developer. I want to be a senior developer.
 
 - Living in Bursa, Turkey 🗺️
 - Currently a student 👨‍🏫
