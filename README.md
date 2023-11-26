@@ -12,5 +12,5 @@
 
 # Contact
 
-- Discord: yasin.avsar
+- Discord: darira1
 - Telegram: https://t.me/casdil
