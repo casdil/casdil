@@ -8,7 +8,7 @@
 - Living in Bursa, Turkey 🗺️
 - Currently a student 👨‍🏫
 - Likes learning new things 📖
-- Loves linux 🫀 
+- Loves linux 🫀
 
 # Contact
 
