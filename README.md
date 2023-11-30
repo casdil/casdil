@@ -12,5 +12,5 @@
 
 # Contact
 
-- Discord: darira1
+- Discord: joshimissyou
 - Telegram: https://t.me/casdil
