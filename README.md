@@ -10,6 +10,8 @@
 - Likes learning new things 📖
 - Loves linux 🫀
 
+- # Nigga big ball ass kernel dev sigma pro XxX
+
 # Contact
 
 - Discord: joshimissyou
