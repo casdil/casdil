@@ -12,5 +12,5 @@
 
 # Contact
 
-- Discord: joshimissyou
+- Discord: atomhearthmother
 - Telegram: https://t.me/casdil
