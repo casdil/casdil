@@ -1,16 +1,10 @@
+# Welcome to My GitHub ⚡  
 
+🔹 Exploring low-level programming & systems development  
+🔹 Passionate about performance, optimization & bare-metal coding  
 
+🛠 **Tech Stack**  
+- Languages: Odin, C, Rust, Assembly  
+- Interests: OS development, Graphics Programming, Networking, Algorithms
 
-# Hi!    
-
-#### Im Yasin Avşar
-
-- Living in Bursa, Turkey 🗺️
-- Currently a student 👨‍🏫
-- Likes learning new things 📖
-- Loves linux 🫀
-
-# Contact
-
-- Discord: atomhearthmother
-- Telegram: https://t.me/casdil
+🚀 Always experimenting, always learning.  
